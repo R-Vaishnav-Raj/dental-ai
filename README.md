@@ -52,7 +52,9 @@ Generates a diagnosis based on the detected issues.
 
 Uploads a medical report (PDF) and extracts text for AI analysis.
 
-![Demo Video](dentalaidemo.mp4)
+## Demo
+
+[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://github.com/R-Vaishnav-Raj/dental-ai/raw/main/dentalaidemo.mp4)
 
 
 ## Acknowledgments
