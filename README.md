@@ -52,6 +52,9 @@ Generates a diagnosis based on the detected issues.
 
 Uploads a medical report (PDF) and extracts text for AI analysis.
 
+![Demo Video](dentalaidemo.mp4)
+
+
 ## Acknowledgments
 
 Special thanks to [SubGlitch1/DentalXrayAI](https://github.com/SubGlitch1/DentalXrayAI) for guidance on training the AI model for scanning dental X-ray images.
