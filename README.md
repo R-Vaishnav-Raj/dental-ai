@@ -54,7 +54,8 @@ Uploads a medical report (PDF) and extracts text for AI analysis.
 
 ## Demo
 
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://github.com/R-Vaishnav-Raj/dental-ai/raw/main/dentalaidemo.mp4)
+[![Watch the demo](https://img.youtube.com/vi/6_b2bJnO6WA/maxresdefault.jpg)](https://www.youtube.com/watch?v=6_b2bJnO6WA)
+
 
 
 ## Acknowledgments
