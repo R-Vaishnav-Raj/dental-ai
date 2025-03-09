@@ -3,3 +3,9 @@ flask
 waitress
 pillow
 roboflow
+google-generativeai
+pdfplumber
+opencv-python
+torch
+pandas
+numpy
